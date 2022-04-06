@@ -6,10 +6,7 @@
  *
  * @category  PHP
  * @package   VenoFileManager
- * @author    Nicola Franchini <info@veno.it>
- * @copyright 2013 - 2022 Nicola Franchini
- * @license   Exclusively sold on CodeCanyon: https://codecanyon.net/item/veno-file-manager-host-and-share-files/6114247
- * @link      https://filemanager.veno.it/
+ * @link      http://veno-file-manager.herokuapp.com/
  */
 define('VFM_APP', true);
 require_once dirname(__FILE__).'/vfm-admin/include/head.php';
